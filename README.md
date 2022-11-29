@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lxon</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Semibold&weight=300&pause=1000&color=F7F7F7&width=435&lines=Hey%F0%9F%91%8B%2C+im+Lxon;this+is+a+banner+%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB;little+things+makes+me+happy+%F0%9F%AB%B6)](https://git.io/typing-svg)</h1>
 <h3 align="center">17 years old and dev lol</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lxonrl&label=Profilaufrufe&color=4650d2&style=flat-square" alt="lxonrl" /> </p>
